@@ -1,3 +1,10 @@
+/reg_env
+/.env 
+/time_series.ipynb
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
